@@ -35,7 +35,7 @@ module.exports = () => {
         short_name: "PWA-Editor",
         description: "PWA to edit text online and offline",
         background_color: "#000000",
-        start_url: "./",
+        start_url: "/",
         publicPath: "/",
         icons: [
           {

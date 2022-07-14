@@ -35,7 +35,7 @@
   "short_name": "PWA-Editor",
   "orientation": "portrait",
   "display": "standalone",
-  "start_url": "./",
+  "start_url": "/",
   "description": "PWA to edit text online and offline",
   "background_color": "#000000"
 }
