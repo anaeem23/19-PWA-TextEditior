@@ -58,7 +58,7 @@ THEN I should have proper build scripts for a webpack application
 
 The Demo: https://pwa-text-editor123.herokuapp.com/
 
-The Walkthrough Video: PENDING
+The Walkthrough Video: https://drive.google.com/file/d/1oB1hoGMZlC9JTpifWDJZ6O5KxB_m_ue2/view
 
 
 
